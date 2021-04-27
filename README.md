@@ -1,6 +1,6 @@
 ## Bitcoin Anonymous Desktop Wallet
 
-Bitcoin Anonymous enables you to transfer on the blockchain without any trace through our secure smart contract system inspiried and powered by Typhoon Network. Bitcoin Anonymous enables you to transfer on the blockchain without any trace. This gives you complete anonimity when sending funds. Based on a modified zk-SNARK with our additonal privacy shielding layers. The more users use our system the more decentralization and anonimity it gives to transactions.
+Bitcoin Anonymous enables you to transfer on the blockchain without any trace through our secure smart contract system inspiried and powered by Typhoon Network. Bitcoin Anonymous enables you to transfer on the blockchain without any trace. This gives you complete anonymity when sending funds. Based on a modified zk-SNARK with our additonal privacy shielding layers. The more users use our system the more decentralization and anonymity it gives to transactions.
 
 ## BTCA Desktop Features
 
