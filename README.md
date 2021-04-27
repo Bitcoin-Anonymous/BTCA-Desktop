@@ -11,8 +11,8 @@ Bitcoin Anonymous enables you to transfer on the blockchain without any trace th
 
 ## BTCA Privacy Features
 
-- Deposit BTCA into the smart contract vaults in increments of 100, 1,000, 10,000 and 100,000.
-- Deposit BNB into the smart contract vaults in increments of .10, 1, 10 and 100.
+- Deposit BTCA into the smart contract vaults in increments of [100], [1,000], [10,000] and [100,000].
+- Deposit BNB into the smart contract vaults in increments of [.10], [1], [10] and [100].
 - Deposit notes are automatically prompted to be downloaded into .txt format for safe keeping.
 - Deposit notes are also stored in the desktop wallet for convenience. *Notes do not import with a seed restore.
 - Withdraw your funds to any BSC smart chain address with nothing more than the text of the deposit note.
@@ -21,7 +21,7 @@ Bitcoin Anonymous enables you to transfer on the blockchain without any trace th
 
 We would like to extend our thanks to the projects and platforms that allow BTCA to function.
 
-- [Typhoon Network](https://typhoon.network). *Official Partner
-- [Binance Smart Chain](https://www.binance.org/en/smartChain).
+- [Typhoon Network](https://typhoon.network) *Official Partner
+- [Binance Smart Chain](https://www.binance.org/en/smartChain)
 - [BscScan](https://bscscan.com)
-- [Coin Paprika](https://coinpaprika.com).
+- [Coin Paprika](https://coinpaprika.com)
